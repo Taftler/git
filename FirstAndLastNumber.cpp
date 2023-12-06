@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 
 //find the firts and the last digit of a number
 
